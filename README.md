@@ -49,7 +49,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📱 SummaSphere](https://github.com/zhihin/summasphere) | AI Summarization Mobile App for students | Flutter, T5, Firebase |
+| [📱 SummaSphere](https://github.com/ZhiHin/FYP-AI-Summarization) | AI Summarization Mobile App for students | Flutter, T5, Firebase |
 
 ---
 
