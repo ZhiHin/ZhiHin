@@ -2,8 +2,8 @@
 
 💡 A passionate **Frontend and Backend Developer** and **AI enthusiast** who loves crafting clean UI, building scalable apps, and experimenting with machine learning models.  
 
-📫 Reach me at: **your-email@example.com**  
-🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)  
+📫 Reach me at: **zhihinfoong4@gmail.com**  
+🌐 Portfolio:  
 
 ---
 
