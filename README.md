@@ -3,7 +3,7 @@
 💡 A passionate **Frontend and Backend Developer** and **AI enthusiast** who loves crafting clean UI, building scalable apps, and experimenting with machine learning models.  
 
 📫 Reach me at: **zhihinfoong4@gmail.com**  
-🌐 Portfolio: [https://zhihin.github.io/Portfolio/](https://github.com/ZhiHin/lanyard-portfolio) 
+🌐 Portfolio: https://zhihin.github.io/lanyard-portfolio/
 
 ---
 
